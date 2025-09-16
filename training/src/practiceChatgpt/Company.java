@@ -10,6 +10,7 @@ public class Company {
 	public void addEmployee(Employee emp) {
 		employees.add(emp);
 			}
+	//comment from GitHub, fetch in the local repository
 	public void displayAllEmployees() {
 		for(Employee e:employees) {
 			e.displayEmployeeInfo();
