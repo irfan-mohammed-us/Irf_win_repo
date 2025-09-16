@@ -11,6 +11,7 @@ public class Company {
 		employees.add(emp);
 			}
 	//comment from GitHub, fetch in the local repository
+	//Comment from local repo
 	public void displayAllEmployees() {
 		for(Employee e:employees) {
 			e.displayEmployeeInfo();
