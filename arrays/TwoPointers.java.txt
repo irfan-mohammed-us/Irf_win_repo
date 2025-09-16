@@ -1,0 +1,11 @@
+// Defining a class inside a package
+// Package name is JavaProgramming.arrays
+package JavaProgramming.arrays;
+
+// Main class present inside the package 
+public class TwoPointers {
+
+    public static void main(String[] args) {
+        System.out.println("Inside the package");
+    }
+}
